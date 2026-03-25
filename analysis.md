@@ -60,7 +60,7 @@ job:
 ### 매칭 근거
 1. **Calendar Share**: Flutter + Firebase + QR 코드 생성/스캔 — 동일 기술 조합
 2. **Fortune App**: Flutter + Firebase, 3개월 빠른 딜리버리, Clean Architecture
-3. **DayStarter**: Flutter 기반, 6개 국어(중국어 포함) 다국어 경험
+3. **DayStarter**: Flutter 기반 대규모 앱 3년 운영, 6개 국어 스토어 리스팅 경험
 
 ## 5. 최종 제안 요약
 
@@ -69,7 +69,7 @@ job:
 - **핵심 제안 포인트**:
   - Flutter + Firebase 동일 기술 스택 다수 프로젝트 경험
   - QR 코드 생성/스캔 실제 구현 경험 (Calendar Share)
-  - 중국어 UI 포함 다국어 앱 출시 경험 (DayStarter)
+  - 6개 국어 스토어 리스팅 및 다국어 앱 구조 설계 경험 (DayStarter)
   - 기획~배포 풀패키지 딜리버리 경험 (Fortune App 3개월)
 
 ## 6. 최종 산출물
@@ -154,7 +154,7 @@ https://proposal-router.claude-ai-b27.workers.dev/proposal-qr-payment-demo/
 ▶ DayStarter — 게이미피케이션 수면 앱 (2022.06~, 3년 운영)
 - 프로젝트 유형: B2C 모바일 앱 (헬스케어)
 - 핵심 기능: 48개 화면, 37개 데이터 모델, 6개 언어 스토어 리스팅
-- 유사점: 중국어(간체) UI 포함 다국어 앱 실제 스토어 배포 경험
+- 유사점: 중국어 포함 6개 국어 스토어 리스팅 및 다국어 앱 구조 설계 경험, Flutter 대규모 앱 3년 운영
 - 기술 스택: Flutter, NestJS, Firebase, PostgreSQL
 
 ---
@@ -182,4 +182,4 @@ https://proposal-router.claude-ai-b27.workers.dev/proposal-qr-payment-demo/
 ### 관련 포트폴리오 추천
 1. **Calendar Share** — Flutter + Firebase + QR 코드 생성/스캔 동일 기술 조합
 2. **Fortune App** — Flutter + Firebase 3개월 빠른 딜리버리, 풀패키지 경험
-3. **DayStarter** — 중국어 포함 6개 국어 다국어 앱 출시 경험
+3. **DayStarter** — 중국어 포함 6개 국어 스토어 리스팅, Flutter 대규모 앱 3년 운영 경험
